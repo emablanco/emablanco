@@ -1,6 +1,6 @@
 <img src="./img/emablanco.png"/>
 
-## Hola, soy Arturo <img src="./img/hand.gif" width="48px" height="48px"/>
+## Hola, soy Ema <img src="./img/hand.gif" width="48px" height="48px"/>
 
 📜 Estoy estudiando ING Informatica............
 
