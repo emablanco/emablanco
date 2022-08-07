@@ -8,7 +8,7 @@
 
 🌍  Vivo actualmente en Santa Fe.
 
-⚡ Puedes ver mi portfolio en [EmaBlanco](http://emablancogithub.io).
+⚡ Puedes ver mi portfolio en [EmaBlanco](http://emablanco.github.io).
 
 ✉️  O contactarme a través de correo electrónico en [emanuelblanco.073@gmail.com](mailto:emanuelblanco.073@gmail.com). 
 
